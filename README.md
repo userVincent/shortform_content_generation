@@ -60,8 +60,8 @@ The program will generate a folder named with the current date in the root direc
 
 ## Examples
 
-There are two examples I already generated: one about the C programming language and one about Anakin Skywalker. 
-The C programming example was created using GPT-3.5 Turbo, while the Anakin example was created with GPT-4. 
+There are two examples I already generated: one about the first Terminator movie and one about Anakin Skywalker. 
+The Terminator example was created using GPT-3.5 Turbo, while the Anakin example was created with GPT-4. 
 Using GPT-4 is how the program is currently set up. It is not perfect, but given the way people are addicted to shortform content nowadays, 
 maybe some social media algorithm will pick it up if you upload it.
 
