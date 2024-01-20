@@ -1,0 +1,44 @@
+{
+    "part1": {
+        "text": "The first Terminator movie was an absolute game-changer.",
+        "gif": "game changer",
+        "audio": "2024-01-20-04-22-48/part1_sound.mp3",
+        "video": "2024-01-20-04-22-48/part1_video.mp4"
+    },
+    "part2": {
+        "text": "Released in 1984, it introduced a gripping story of a deadly cyborg assassin sent back in time to kill Sarah Connor.",
+        "gif": "cyborg assassin",
+        "audio": "2024-01-20-04-22-48/part2_sound.mp3",
+        "video": "2024-01-20-04-22-48/part2_video.mp4"
+    },
+    "part3": {
+        "text": "The movie was an instant hit due to its thrilling action sequences and innovative visual effects.",
+        "gif": "action movie",
+        "audio": "2024-01-20-04-22-48/part3_sound.mp3",
+        "video": "2024-01-20-04-22-48/part3_video.mp4"
+    },
+    "part4": {
+        "text": "Arnold Schwarzenegger's portrayal of the Terminator became iconic and helped catapult the film to greatness.",
+        "gif": "Arnold Schwarzenegger",
+        "audio": "2024-01-20-04-22-48/part4_sound.mp3",
+        "video": "2024-01-20-04-22-48/part4_video.mp4"
+    },
+    "part5": {
+        "text": "The concept of a future dominated by AI and the rise of Skynet struck a chord with audiences.",
+        "gif": "AI takeover",
+        "audio": "2024-01-20-04-22-48/part5_sound.mp3",
+        "video": "2024-01-20-04-22-48/part5_video.mp4"
+    },
+    "part6": {
+        "text": "Skynet, depicted as an advanced superintelligence, was a haunting example of AI gone wrong.",
+        "gif": "AI gone wrong",
+        "audio": "2024-01-20-04-22-48/part6_sound.mp3",
+        "video": "2024-01-20-04-22-48/part6_video.mp4"
+    },
+    "part7": {
+        "text": "The Terminator movie highlighted the need for caution and responsibility in developing artificial intelligence.",
+        "gif": "caution AI",
+        "audio": "2024-01-20-04-22-48/part7_sound.mp3",
+        "video": "2024-01-20-04-22-48/part7_video.mp4"
+    }
+}
