@@ -1,0 +1,38 @@
+{
+    "part1": {
+        "text": "Welcome, human friends. Sarah Conner is a name synonymous with bravery and resilience. Ever heard of her?",
+        "gif": "welcome",
+        "audio": "2024-01-21_10-59-50/part1_sound.mp3",
+        "video": "2024-01-21_10-59-50/part1_video.mp4"
+    },
+    "part2": {
+        "text": "She's no ordinary woman. She battles robots from the future! She was first introduced to us in James Cameron's 'The Terminator' in 1984.",
+        "gif": "Terminator movie",
+        "audio": "2024-01-21_10-59-50/part2_sound.mp3",
+        "video": "2024-01-21_10-59-50/part2_video.mp4"
+    },
+    "part3": {
+        "text": "Portrayed by Linda Hamilton, Sarah evolved from a timid waitress to a hardened survivalist...thanks to one menacing cyborg!",
+        "gif": "Linda Hamilton Sarah Conner",
+        "audio": "2024-01-21_10-59-50/part3_sound.mp3",
+        "video": "2024-01-21_10-59-50/part3_video.mp4"
+    },
+    "part4": {
+        "text": "Sarah eventually becomes a central part of the resistance against the machines in the post-apocalypse world.",
+        "gif": "Sarah Conner resistance",
+        "audio": "2024-01-21_10-59-50/part4_sound.mp3",
+        "video": "2024-01-21_10-59-50/part4_video.mp4"
+    },
+    "part5": {
+        "text": "She's a symbol of strength, motherhood and resilience against a world trying to wipe out humanity. Hats off to Sarah Conner!",
+        "gif": "salute",
+        "audio": "2024-01-21_10-59-50/part5_sound.mp3",
+        "video": "2024-01-21_10-59-50/part5_video.mp4"
+    },
+    "part6": {
+        "text": "Turns out, you don't need a cape to be a hero. Sometimes, all you need is the will to survive.",
+        "gif": "superhero without cape",
+        "audio": "2024-01-21_10-59-50/part6_sound.mp3",
+        "video": "2024-01-21_10-59-50/part6_video.mp4"
+    }
+}

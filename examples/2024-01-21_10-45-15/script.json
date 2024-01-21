@@ -1,0 +1,50 @@
+{
+    "part1": {
+        "text": "Ever feel like your coding powers need a boost?",
+        "gif": "superman",
+        "audio": "2024-01-21_10-45-15/part1_sound.mp3",
+        "video": "2024-01-21_10-45-15/part1_video.mp4"
+    },
+    "part2": {
+        "text": "Meet C++, one of the most powerful programming languages out there.",
+        "gif": "C++ language",
+        "audio": "2024-01-21_10-45-15/part2_sound.mp3",
+        "video": "2024-01-21_10-45-15/part2_video.mp4"
+    },
+    "part3": {
+        "text": "Its versatility will make you feel like you're commanding a legion of robots.",
+        "gif": "Robot army",
+        "audio": "2024-01-21_10-45-15/part3_sound.mp3",
+        "video": "2024-01-21_10-45-15/part3_video.mp4"
+    },
+    "part4": {
+        "text": "Watch as patterns of cryptic symbols transform into powerful applications.",
+        "gif": "magic symbols",
+        "audio": "2024-01-21_10-45-15/part4_sound.mp3",
+        "video": "2024-01-21_10-45-15/part4_video.mp4"
+    },
+    "part5": {
+        "text": "Plus, it's the backbone of some of those mega cool games you love, ruling the virtual worlds.",
+        "gif": "Video game world",
+        "audio": "2024-01-21_10-45-15/part5_sound.mp3",
+        "video": "2024-01-21_10-45-15/part5_video.mp4"
+    },
+    "part6": {
+        "text": "Is C++ easy? Well, 'easy' is a relative term in the world of programming.",
+        "gif": "Difficult task",
+        "audio": "2024-01-21_10-45-15/part6_sound.mp3",
+        "video": "2024-01-21_10-45-15/part6_video.mp4"
+    },
+    "part7": {
+        "text": "But hey, Rome wasn't built in a day. And the view from the top is always worth the climb.",
+        "gif": "climbing mountain",
+        "audio": "2024-01-21_10-45-15/part7_sound.mp3",
+        "video": "2024-01-21_10-45-15/part7_video.mp4"
+    },
+    "part8": {
+        "text": "So go ahead. Unlock your coding superpowers with C++!",
+        "gif": "superhero",
+        "audio": "2024-01-21_10-45-15/part8_sound.mp3",
+        "video": "2024-01-21_10-45-15/part8_video.mp4"
+    }
+}
